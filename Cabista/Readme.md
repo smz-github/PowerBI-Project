@@ -19,7 +19,7 @@ Below are snapshots of the Power BI dashboard:
 To develop a comprehensive monthly report for Cabista, a cab booking company, using a dataset containing over 1 lakh bookings from the month of July. The goal is to deliver real-time insights into key performance metrics and booking trends, empowering stakeholders to effectively monitor operational efficiency, customer behavior, and revenue generation.
 
 ## 📊 Datasets Used
-Key [datasets](./data) used for this report:
+Key [datasets](./Data) used for this report:
 - cabista_bookings_july: Contains detailed records of customer rides for the month of July, including trip status, vehicle category, payment method, pickup location, and customer feedback.
 
 ## 🛠️ Tools Used
