@@ -15,6 +15,17 @@ The <strong>Cabista Dashboard</strong> provides a visual summary of key operatio
 
 Below are snapshots of the Power BI dashboard:
 
+![image](https://github.com/user-attachments/assets/a0195a26-cd11-4544-9763-25c2dee4c2bd)
+
+![image](https://github.com/user-attachments/assets/74dc49ea-d448-4f94-84c0-6781eba777ed)
+
+![image](https://github.com/user-attachments/assets/f74a78c9-e5f7-4816-839e-18ed917bf001)
+
+![image](https://github.com/user-attachments/assets/8add3f8a-185f-438a-b437-bc3e9d560cca)
+
+![image](https://github.com/user-attachments/assets/eda8dccd-2be3-4643-a3e6-89692f64b3fb)
+
+
 ## 🎯 Objective
 To develop a comprehensive monthly report for Cabista, a cab booking company, using a dataset containing over 1 lakh bookings from the month of July. The goal is to deliver real-time insights into key performance metrics and booking trends, empowering stakeholders to effectively monitor operational efficiency, customer behavior, and revenue generation.
 
