@@ -36,7 +36,7 @@ Key [datasets](./Data) used for this report:
 ## 🛠️ Tools Used
 - <strong>Excel:</strong> Cleaned and validated raw booking data to ensure accuracy before database insertion.
 
-- <strong>SQL Server:</strong> Structured and stored the cleaned data in a relational database for efficient querying.
+- <strong>SQL:</strong> Structured and stored the cleaned data in a relational database for efficient querying.
 
 - <strong>Power Query (Power BI):</strong> Performed ETL (Extract, Transform, Load) operations to shape and prepare the data for analysis.
 
